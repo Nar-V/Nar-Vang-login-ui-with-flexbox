@@ -25,14 +25,16 @@ html,body{
     flex-direction: column;
 }
 
-input[type=text] {
+input {
     width: 100%;
     box-sizing: content-box;
     border-radius: 8px;
 }
-
-input[type=password] {
-    width: 100%;
-    box-sizing: content-box;
-    border-radius: 8px;
+/*
+input[type=submit] {
+    width: 200%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: rgb(68, 0, 255);
 }
+*/

@@ -14,10 +14,10 @@ html,body{
     border-style: solid;
     border-width: 1px;
     border-radius: 12px;
-    border-color: rgba(0,0,0,0.3);
-    background-color: rgba(0,0,0,0.05);
-    min-width: 30%;
-    min-height: 20%;
+    border-color: rgba(98, 141, 233, 0.945);
+    background-color: rgba(98, 141, 233, 0.945);
+    min-width: 200%;
+    min-height: 400%;
     display: flex;
     justify-content: center;
     align-items: center;

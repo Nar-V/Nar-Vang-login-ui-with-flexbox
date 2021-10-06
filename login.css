@@ -26,8 +26,8 @@ html,body{
 }
 
 input {
-    width: 70%;
-    border-radius: 8px;
+    border-style:none;
+    width: 40%;
 }
 
 button {
@@ -35,5 +35,6 @@ button {
     border-color: rgba(20, 37, 194, 0.945);
     background-color: rgba(20, 37, 194, 0.945);
     min-width: 30%;
+    height: 30px;
     color: rgba(252, 252, 252, 0.945);
 }

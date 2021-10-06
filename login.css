@@ -11,10 +11,14 @@ html,body{
     background-color: rgba(248, 245, 245, 0.747);
 }
 
+.label {
+    
+}
+
 .form {
-    border-style: ridge;
+    border-style: none;
     border-width: 1px;
-    border-radius: 10px;
+    border-radius: 30px;
     border-color: rgba(255, 255, 255, 0.945);
     background-color: rgba(255, 255, 255, 0.945);
     min-width: 500px;
@@ -28,13 +32,14 @@ html,body{
 input {
     border-style:none;
     width: 300px;
+    height: 50px;
 }
 
 button {
-    border-radius: 12px;
+    border-radius: 30px;
     border-color: rgba(20, 37, 194, 0.945);
     background-color: rgba(20, 37, 194, 0.945);
-    min-width: 100px;
-    height: 30px;
+    width: 300px;
+    height: 50px;
     color: rgba(252, 252, 252, 0.945);
 }
